@@ -1,0 +1,43 @@
+fred-wilson,tocqueville-new-york,2010-10-22T23:44:29,40.7363,-73.9922,New York,Food:italian
+fred-wilson,wesleyan-university-usdan-university-center-middle,2010-10-23T17:00:24,41.556974,-72.657571,Middletown,Food:italian
+fred-wilson,javapalooza-middletown,2010-10-23T20:30:45,41.5588525,-72.6486184,Middletown,Food:American
+fred-wilson,giorgione-new-york,2010-10-24T00:22:49,40.726144,-74.008348,New York,Food:American
+fred-wilson,the-shala-new-york,2010-10-24T16:01:38,40.733075,-73.991478,New York,Food:American
+fred-wilson,citarella-new-york,2010-10-24T19:20:18,40.7344,-73.999,New York,Shops:Food & Drink:wine shop
+fred-wilson,jeffreys-grocery-and-luncheonette-new-york,2010-10-25T12:03:10,40.733994,-74.001374,New York,Food:Coffee Shop
+ben-parr,bandera-brentwood-los-angeles,2010-08-22T04:34:54,34.0494,-118.461,Los Angeles,Travel:Hotel
+ben-parr,the-w-hotel-los-angeles-westwood-los-angeles,2010-08-22T06:19:56,34.063201,-118.441029,Los Angeles,Travel:Airport
+shaherose-charania,taverna-aventine-san-francisco,2010-08-14T01:16:13,37.7955978,-122.4029304,San Francisco,Travel:Hotel
+shaherose-charania,bocadillos-san-francisco,2010-08-14T03:30:42,37.795811,-122.403157,San Francisco,Travel:Hotel
+shaherose-charania,whole-foods-market-san-francisco,2010-05-09T16:59:27,37.7899127847,-122.42357254,San Francisco,Travel:Airport
+maia-bittner,hillstone-san-francisco,2009-06-05T01:06:45,37.8059186497,-122.4051404,San Francisco,Food:italian
+maia-bittner,levis-plaza-park-san-francisco,2009-06-08T20:05:24,37.8028076117,-122.40144968,NULL,Food:American
+maia-bittner,rjs-market-levi-plaza-san-francisco,2009-06-09T19:58:25,37.8035,-122.404,San Francisco,Food:pizza
+maia-bittner,mission-creek-cafe-san-francisco,2009-06-10T17:11:37,37.7574,-122.421,San Francisco,Travel:airport:terminal
+harj-taggar,red-rock-coffee-mountain-view,2010-10-22T15:34:39,37.393588,-122.078752,Mountain View,Food:American
+harj-taggar,901-columbus-caffe-san-francisco,2010-09-09T19:20:40,37.8029,-122.414,San Francisco,Food:pizza
+harj-taggar,crave-san-francisco,2010-09-14T23:01:15,37.7968,-122.422,San Francisco,Food:pizza
+harj-taggar,peets-coffee-san-francisco,2010-09-15T00:13:20,37.7959421,-122.4217911,San Francisco,Food:Coffee Shop
+harj-taggar,zarzuela-san-francisco,2010-09-15T03:20:03,37.7993,-122.419,San Francisco,Food:Coffee Shop
+harj-taggar,whole-foods-market-san-francisco,2010-09-16T03:08:45,37.7899127847,-122.42357254,San Francisco,Food:Coffee Shop
+harj-taggar,vertigo-san-francisco,2010-09-17T08:04:04,37.7874854,-122.4200417,San Francisco,Food:Coffee Shop
+harj-taggar,crave-san-francisco,2010-09-18T21:30:24,37.7968,-122.422,San Francisco,Travel:Airport
+harj-taggar,crave-san-francisco,2010-09-19T21:26:36,37.7968,-122.422,San Francisco,Travel:Airport
+harj-taggar,thai-thai-noodle-san-francisco,2010-09-21T02:57:46,37.7910126,-122.4174218,San Francisco,Travel:Airport
+harj-taggar,san-mateo-county-superior-court-central-branch-san,2010-09-21T15:32:15,37.581344,-122.3290441,San Mateo,Travel:Airport
+jennifer-van-grove,austin-convention-center-austin,2011-03-11T17:14:53,30.2636265077,-97.7395248413,Austin,Travel:Airport
+jennifer-van-grove,foursquare-court-pepsi-max-lot-austin,2011-03-11T19:22:21,30.2645838,-97.7414455,Austin,Travel:Airport
+jennifer-van-grove,apple-store-sxsw-austin,2011-03-11T23:20:52,30.268027,-97.742905,Austin,Travel:Airport
+jennifer-van-grove,apple-store-sxsw-austin,2011-03-11T23:41:49,30.268027,-97.742905,Austin,Travel:Airport
+jennifer-van-grove,east-side-drive-in-austin,2011-03-12T01:57:46,30.264302,-97.732304,Austin,Travel:Airport
+geoff-jones,costa-coffee,2010-06-24T11:55:56,52.205553,0.119671,NULL,Food:Coffee Shop
+geoff-jones,costa-coffee,2010-06-23T14:35:06,52.205553,0.119671,NULL,Food:Coffee Shop
+eric-wiesen,sarabeths-west-new-york,2009-06-27T22:37:14,40.783874,-73.977416,New York,Food:Coffee Shop
+eric-wiesen,brasserie-new-york,2009-06-27T17:42:17,40.759,-73.9725,New York,Food:Coffee Shop
+eric-wiesen,zabars-new-york,2009-06-27T15:22:43,40.7848789,-73.9793568,New York,Food:Coffee Shop
+david-noel,luigi-zuckermann-berlin,2009-10-24T10:13:18,52.5285256,13.4022588,Berlin,Travel:Airport
+david-noel,transit-mitte-berlin,2009-10-23T11:48:54,52.5287031,13.4021092,Berlin,Travel:Airport
+david-noel,luigi-zuckermann-berlin,2009-10-22T13:06:20,52.5285256,13.4022588,Berlin,Travel:Airport
+dennis-mykytyn,mta-subway-bleecker-st-6-new-york,2010-07-24T18:07:10,40.725937,-73.9946544,New York,Travel:Airport
+dennis-mykytyn,music-hall-paris,2010-07-24T13:15:13,40.7254700181,-73.9924907684,New York,Travel:Airport
+olivier-maurel,music-hall-paris,2010-04-03T20:49:45,48.8718369,2.3100726,Paris,Travel:Hotel
